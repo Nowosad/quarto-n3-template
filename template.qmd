@@ -4,6 +4,9 @@ author: "Jakub Nowosad"
 institute: "https://jakubnowosad.com/"
 date: today
 date-format: iso
+#lang: pl-PL
+chalkboard:
+  theme: whiteboard
 format:
   n3-revealjs:
     echo: true

@@ -1,0 +1,19 @@
+---
+title: "TITLE"
+author: "Jakub Nowosad"
+institute: "https://jakubnowosad.com/"
+date: today
+date-format: iso
+format:
+  n3-revealjs:
+    echo: true
+    highlight-style: github
+    slide-number: c/t
+    width: 1600
+    height: 900
+    footer: "[JN](https://jakubnowosad.com/)"
+    transition: none
+---
+
+
+

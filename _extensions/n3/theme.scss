@@ -8,11 +8,26 @@
 
 $font-family-sans-serif: "Fira Sans", "Droid Serif", "Palatino Linotype", "Book Antiqua", Palatino,
   FreeSerif, serif !default;
-
 $font-family-monospace: "Fira Code", "Lucida Console", Monaco, monospace !default;
+$presentation-font-size-root: 32px;
+$presentation-line-height: 1.5em;
+$presentation-heading-font-weight: 400;
+
+// colors
+$body-bg: #fafafa !default;
+$body-color: #000 !default;
+$selection-bg: #26351c;
 
 /*-- scss:rules --*/
-
 #title-slide {
   text-align: left;
 }
+
+.reveal h2 {
+	background-color: #23373b;
+	padding: 5px 0px 5px 10px;
+	color: #fafafa;
+	border-radius: 12px;
+}
+
+

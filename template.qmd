@@ -19,4 +19,36 @@ format:
 ---
 
 
+# Section 1
+
+## My slide
+
+:::: {.columns}
+::: {.column width="40%"}
+This is a column.
+:::
+::: {.column width="60%"}
+This is also a column, but with:
+
+- One point
+- Two point
+- Three point
+:::
+::::
+
+## My other slide
+
+::: footer
+We can even have a footer!
+:::
+
+## There is even one more
+
+```{r}
+#| code-line-numbers: "1-2|4"
+library(ggplot2)
+library(dplyr)
+df = data.frame(x = 1, y = 1)
+df$z = 3
+```
 

@@ -1,6 +1,5 @@
-title: "TITLE"
-author: "AUTHOR"
-institute: "INSTITUTE"
+title: n3 Theme
+author: Jakub Nowosad
 version: 1.0.0
 contributes:
   formats:

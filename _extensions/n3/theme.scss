@@ -30,4 +30,10 @@ $selection-bg: #26351c;
 	border-radius: 12px;
 }
 
-
+.vectical-center{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

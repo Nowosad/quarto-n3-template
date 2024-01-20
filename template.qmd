@@ -7,6 +7,10 @@ date-format: iso
 #lang: pl-PL
 chalkboard:
   theme: whiteboard
+title-slide-attributes:
+  data-background-image: cover.jpg
+  data-background-size: cover
+  data-background-opacity: "0.2"
 format:
   n3-revealjs:
     footer: "[JN](https://jakubnowosad.com/)"

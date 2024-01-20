@@ -9,15 +9,8 @@ chalkboard:
   theme: whiteboard
 format:
   n3-revealjs:
-    echo: true
-    highlight-style: github
-    slide-number: c/t
-    width: 1600
-    height: 900
     footer: "[JN](https://jakubnowosad.com/)"
-    transition: none
 ---
-
 
 # Section 1
 

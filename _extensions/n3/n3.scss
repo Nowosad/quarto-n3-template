@@ -20,7 +20,22 @@ $selection-bg: #26351c;
 
 /*-- scss:rules --*/
 #title-slide {
-  text-align: left;
+	text-align: left;
+  
+	.quarto-title-authors {
+	  justify-content: left;
+
+	  .quarto-title-author { // optional, test it for yourself
+		padding-left: 0;
+		padding-right: 0;
+		width: 100%;
+	  }
+	}
+	
+}
+
+.reveal .footer a {
+color: #312f1a;
 }
 
 .reveal h2 {

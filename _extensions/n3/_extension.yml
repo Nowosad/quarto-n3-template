@@ -1,7 +1,13 @@
 title: n3 Theme
 author: Jakub Nowosad
-version: 1.0.0
+version: 1.1.0
 contributes:
   formats:
     revealjs:
-      theme: [default, theme.scss]
+      theme: [default, n3.scss]
+      echo: true
+      highlight-style: github
+      slide-number: c/t
+      width: 1600
+      height: 900
+      transition: none

@@ -53,3 +53,24 @@ color: #312f1a;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+
+section.slide h1 {
+  color: rgb(255, 255, 255) !important;
+  //font-size: calc(min(8vw, 8vh)) !important; // Adjust these values to change the font size
+  font-size: 200px  !important; // Adjust this value to make the font larger or smaller
+  text-align: right;
+  font-weight: 200; 
+  // text-shadow: 5px 5px 0 rgba(1, 1, 1, 1); // Add white shadow
+}
+
+.reveal pre {
+  font-size: 1.8rem !important;
+}
+
+.reveal code {
+  font-size: 0.85em !important;
+}
+
+// .reveal .slide {
+//     outline: thick double #B22222;
+// }

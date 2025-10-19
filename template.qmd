@@ -13,7 +13,6 @@ title-slide-attributes:
   data-background-opacity: "0.2"
 format:
   n3-revealjs:
-    footer: "[JN](https://jakubnowosad.com/)"
     slide-number: false
     progress: false
     margin: 0.05
